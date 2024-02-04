@@ -5,4 +5,4 @@
 
 - Check out the app hosted at HuggingFace Spaces in <a href traget = "https://huggingface.co/Dekode"> Dekode/DocLLM </a>
 
-- check out my <a href traget = "https://huggingface.co/Dekode"> HuggingFace profile </a>
+- Check out my <a href traget = "https://huggingface.co/Dekode"> HuggingFace profile </a>
